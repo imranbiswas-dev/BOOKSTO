@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mystery & Thriller",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZT9PBdZz-_ApEinmiSV2VLBUssc-VuOhJIQ&s"
+  },
+  {
+    "id": 2,
+    "name": "Romance",
+    "image": "https://c0.wallpaperflare.com/preview/545/764/949/backlit-couple-dawn-love-thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Science Fiction",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVxXRMOGctE6FWVSlh9pJ0K64Lzbz8ih_Rg&s"
+  },
+  {
+    "id": 4,
+    "name": "Self-Help & Nonfiction",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiB_VzanSNDbhTiGoWiPVsqezivxrrGrmkyA&s"
+  }
+]

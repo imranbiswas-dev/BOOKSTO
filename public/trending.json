@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Patient",
+    "summary": "A gripping psychological thriller about a woman’s act of violence against her husband—and the therapist obsessed with uncovering her motive.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyg9nW01DcHBh2RbNBjULsMSpMLUTjgSH8w&s",
+    "author": "Alex Michaelides",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 9.99,
+    "officialPrice": 14.99,
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "title": "It Ends with Us",
+    "summary": "A powerful story about love, heartbreak, and finding the strength to stand up for yourself.",
+    "image": "https://i.ibb.co/FKstNpz/it-ends-with-us.jpg",
+    "author": "Colleen Hoover",
+    "genre": "Romance",
+    "discountPrice": 8.99,
+    "officialPrice": 12.99,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "The Notebook",
+    "summary": "A timeless love story of passion and destiny that spans decades.",
+    "image": "https://i.ibb.co/2g8h0mJ/the-notebook.jpg",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "discountPrice": 7.99,
+    "officialPrice": 12.99,
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "title": "Dune",
+    "summary": "A science fiction epic about politics, religion, and survival on a desert planet.",
+    "image": "https://i.ibb.co/MRsZL7B/dune.jpg",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "discountPrice": 9.49,
+    "officialPrice": 14.99,
+    "rating": 4.9
+  },
+  {
+    "id": 16,
+    "title": "Project Hail Mary",
+    "summary": "A man wakes up alone in space with no memory — and the fate of humanity in his hands.",
+    "image": "https://i.ibb.co/S37g6Sh/project-hail-mary.jpg",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "discountPrice": 11.49,
+    "officialPrice": 16.49,
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "title": "Atomic Habits",
+    "summary": "An easy and proven way to build good habits and break bad ones.",
+    "image": "https://i.ibb.co/nfJDfw3/atomic-habits.jpg",
+    "author": "James Clear",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 9.49,
+    "officialPrice": 13.99,
+    "rating": 4.9
+  },
+  {
+    "id": 22,
+    "title": "The Girl on the Train",
+    "summary": "A psychological thriller that will forever change the way you look at other people’s lives.",
+    "image": "https://i.ibb.co/xDCsVGw/the-girl-on-the-train.jpg",
+    "author": "Paula Hawkins",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 8.99,
+    "officialPrice": 13.99,
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "summary": "A counterintuitive approach to living a good life by focusing on what truly matters.",
+    "image": "https://i.ibb.co/K0vH7sB/the-subtle-art.jpg",
+    "author": "Mark Manson",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 9.99,
+    "officialPrice": 14.99,
+    "rating": 4.7
+  }
+]

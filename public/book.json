@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Patient",
+    "summary": "A gripping psychological thriller about a woman’s act of violence against her husband—and the therapist obsessed with uncovering her motive.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyg9nW01DcHBh2RbNBjULsMSpMLUTjgSH8w&s",
+    "author": "Alex Michaelides",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 9.99,
+    "officialPrice": 14.99,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "Gone Girl",
+    "summary": "A twisted tale of marriage, deceit, and media manipulation that keeps readers guessing until the final page.",
+    "image": "https://play-lh.googleusercontent.com/vzf6VKyJxd6u_aHEoD_jQLV-zPfJnqdBUT2QD56DrqRV8fjZUJlypEdBk_j8zXNmtkh9",
+    "author": "Gillian Flynn",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 8.49,
+    "officialPrice": 13.99,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "The Girl with the Dragon Tattoo",
+    "summary": "A dark and compelling mystery that delves into family secrets, corruption, and revenge.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+    "author": "Stieg Larsson",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 10.99,
+    "officialPrice": 16.99,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "The Da Vinci Code",
+    "summary": "A symbologist uncovers shocking secrets hidden in famous artworks and religious history.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA10OgLkzYS6SmTrjapMMN9r5fCSS-YY8dUS5Phqc4uCbpvJbC5JP3spz1fSeiC2p94ZI&usqp=CAU",
+    "author": "Dan Brown",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 7.99,
+    "officialPrice": 12.99,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "Big Little Lies",
+    "summary": "A brilliant take on ex-husbands, second wives, and the dangerous little lies we tell ourselves.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Big_Little_Lies_Cover.jpg",
+    "author": "Liane Moriarty",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 8.99,
+    "officialPrice": 14.49,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "The Woman in the Window",
+    "summary": "An agoraphobic woman believes she witnessed a crime in a neighboring house.",
+    "image": "https://nikagrizila.com/wp-content/uploads/2023/10/81D7dAhez6L._AC_UF10001000_QL80_.jpg",
+    "author": "A.J. Finn",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 9.49,
+    "officialPrice": 13.49,
+    "rating": 4.4
+  },
+
+  {
+    "id": 7,
+    "title": "It Ends with Us",
+    "summary": "A powerful story about love, heartbreak, and finding the strength to stand up for yourself.",
+    "image": "https://i.ibb.co/FKstNpz/it-ends-with-us.jpg",
+    "author": "Colleen Hoover",
+    "genre": "Romance",
+    "discountPrice": 8.99,
+    "officialPrice": 12.99,
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "title": "The Love Hypothesis",
+    "summary": "A charming fake-dating romance between a scientist and a professor that sparks real chemistry.",
+    "image": "https://i.ibb.co/KF9f1vJ/love-hypothesis.jpg",
+    "author": "Ali Hazelwood",
+    "genre": "Romance",
+    "discountPrice": 9.49,
+    "officialPrice": 14.99,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "People We Meet on Vacation",
+    "summary": "Two best friends who fell apart reunite for one last trip to fix everything.",
+    "image": "https://i.ibb.co/hLSx9Jf/people-we-meet.jpg",
+    "author": "Emily Henry",
+    "genre": "Romance",
+    "discountPrice": 8.29,
+    "officialPrice": 13.49,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "title": "The Notebook",
+    "summary": "A timeless love story of passion and destiny that spans decades.",
+    "image": "https://i.ibb.co/2g8h0mJ/the-notebook.jpg",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "discountPrice": 7.99,
+    "officialPrice": 12.99,
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "title": "Me Before You",
+    "summary": "A heartfelt story about two people whose lives change each other forever.",
+    "image": "https://i.ibb.co/zn07m4t/me-before-you.jpg",
+    "author": "Jojo Moyes",
+    "genre": "Romance",
+    "discountPrice": 9.99,
+    "officialPrice": 15.49,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Red, White & Royal Blue",
+    "summary": "A funny, heartwarming romance between the First Son of the U.S. and a British prince.",
+    "image": "https://i.ibb.co/xSgXy7Y/red-white-royal-blue.jpg",
+    "author": "Casey McQuiston",
+    "genre": "Romance",
+    "discountPrice": 10.49,
+    "officialPrice": 14.99,
+    "rating": 4.6
+  },
+
+  {
+    "id": 13,
+    "title": "Dune",
+    "summary": "A science fiction epic about politics, religion, and survival on a desert planet.",
+    "image": "https://i.ibb.co/MRsZL7B/dune.jpg",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "discountPrice": 9.49,
+    "officialPrice": 14.99,
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "title": "The Hobbit",
+    "summary": "A classic fantasy adventure of Bilbo Baggins and his unexpected journey.",
+    "image": "https://i.ibb.co/YttvbMs/the-hobbit.jpg",
+    "author": "J.R.R. Tolkien",
+    "genre": "Science Fiction",
+    "discountPrice": 8.49,
+    "officialPrice": 13.99,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "summary": "A young boy discovers he’s a wizard and enters the magical world of Hogwarts.",
+    "image": "https://i.ibb.co/7nqCHfx/harry-potter.jpg",
+    "author": "J.K. Rowling",
+    "genre": "Science Fiction",
+    "discountPrice": 7.99,
+    "officialPrice": 12.99,
+    "rating": 4.9
+  },
+  {
+    "id": 16,
+    "title": "Project Hail Mary",
+    "summary": "A man wakes up alone in space with no memory — and the fate of humanity in his hands.",
+    "image": "https://i.ibb.co/S37g6Sh/project-hail-mary.jpg",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "discountPrice": 11.49,
+    "officialPrice": 16.49,
+    "rating": 4.8
+  },
+  {
+    "id": 17,
+    "title": "A Court of Thorns and Roses",
+    "summary": "A fantasy romance blending magic, danger, and desire in a faerie kingdom.",
+    "image": "https://i.ibb.co/Y27Dmp1/acotar.jpg",
+    "author": "Sarah J. Maas",
+    "genre": "Science Fiction",
+    "discountPrice": 9.99,
+    "officialPrice": 14.99,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "title": "The Martian",
+    "summary": "An astronaut stranded on Mars fights to survive using science and humor.",
+    "image": "https://i.ibb.co/dQ07dS1/the-martian.jpg",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "discountPrice": 10.49,
+    "officialPrice": 15.99,
+    "rating": 4.8
+  },
+
+  {
+    "id": 19,
+    "title": "Atomic Habits",
+    "summary": "An easy and proven way to build good habits and break bad ones.",
+    "image": "https://i.ibb.co/nfJDfw3/atomic-habits.jpg",
+    "author": "James Clear",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 9.49,
+    "officialPrice": 13.99,
+    "rating": 4.9
+  },
+  {
+    "id": 20,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "summary": "A counterintuitive approach to living a good life by focusing on what truly matters.",
+    "image": "https://i.ibb.co/K5P2Lx3/subtle-art.jpg",
+    "author": "Mark Manson",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 8.99,
+    "officialPrice": 12.99,
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "title": "You Are a Badass",
+    "summary": "Motivational guide to help you stop doubting your greatness and start living an awesome life.",
+    "image": "https://i.ibb.co/ykvyXx2/you-are-a-badass.jpg",
+    "author": "Jen Sincero",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 7.99,
+    "officialPrice": 11.99,
+    "rating": 4.6
+  },
+  {
+    "id": 22,
+    "title": "The 7 Habits of Highly Effective People",
+    "summary": "A timeless guide to personal and professional success through effective habits.",
+    "image": "https://i.ibb.co/09pbtRt/7-habits.jpg",
+    "author": "Stephen R. Covey",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 10.49,
+    "officialPrice": 15.49,
+    "rating": 4.8
+  },
+  {
+    "id": 23,
+    "title": "Think and Grow Rich",
+    "summary": "The classic motivational book that teaches the principles of success and wealth-building.",
+    "image": "https://i.ibb.co/vz4d5Nh/think-grow-rich.jpg",
+    "author": "Napoleon Hill",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 8.49,
+    "officialPrice": 12.49,
+    "rating": 4.7
+  },
+  {
+    "id": 24,
+    "title": "The Power of Now",
+    "summary": "A spiritual guide to help you live fully in the present moment and find peace.",
+    "image": "https://i.ibb.co/jLtJ3nZ/power-of-now.jpg",
+    "author": "Eckhart Tolle",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 9.99,
+    "officialPrice": 14.99,
+    "rating": 4.8
+  }
+]

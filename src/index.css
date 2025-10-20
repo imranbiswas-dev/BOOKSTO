@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.active{
+    @apply text-[#0DD6B8]
+}
