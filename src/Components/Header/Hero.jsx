@@ -1,5 +1,6 @@
 import React from "react";
 import banner from '../../assets/Cover/E-Book-PNG-Images.png';
+import { Link } from "react-router";
 
 const Hero = () => {
   return (
@@ -18,9 +19,9 @@ const Hero = () => {
               crafted for readers who love to imagine, learn, and dream.
             </p>
             <div className="flex gap-5 lg:mr-60">
-              <button className="btn btn-accent text-white font-semibold lg:text-2xl md:text-lg">
+              <Link to="/categories" className="btn btn-accent text-white font-semibold lg:text-2xl md:text-lg">
                 Browse Library
-              </button>
+              </Link>
               <button className="btn btn-outline btn-accent hover:text-white  md:text-lg p-2">
                 Sign In
               </button>

@@ -1,17 +1,3 @@
-// import React from "react";
-// import CardSection from "../../Components/BookCard/CardSection";
-
-// const Categories = () => {
-//   return (
-//     <div>
-
-//       <CardSection />
-//     </div>
-//   );
-// };
-
-// export default Categories;
-
 import { useEffect, useState } from "react";
 import BookCard from "../../Components/BookCard/BookCard";
 
@@ -41,7 +27,7 @@ const Library = () => {
       : books.filter((book) => book.genre === selectedGenre);
 
   return (
-    <div className="">
+    <div className="mt-5">
       <h1 className="text-2xl font-bold text-center mb-6">
         📚 Explore Our Book Library
       </h1>

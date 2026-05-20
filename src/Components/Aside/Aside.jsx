@@ -3,6 +3,8 @@ import { AiOutlineHome } from "react-icons/ai";
 import { MdOutlineRoundaboutRight } from "react-icons/md";
 import { TbCategory, TbContract } from "react-icons/tb";
 import { NavLink } from "react-router";
+import ThemeToggle from "../ThemeToggle";
+import SearchBar from "../SearchBar/SearchBar";
 
 const Aside = () => {
   const link = (
@@ -25,7 +27,7 @@ const Aside = () => {
   return (
     <div className="sticky top-0 z-50">
       <div className="h-full p-3 space-y-2 bg-base-300 w-full ">
-        <div className="flex items-center p-2 space-x-4">
+        {/* <div className="flex items-center p-2 space-x-4">
           <img
             src="https://source.unsplash.com/100x100/?portrait"
             alt=""
@@ -43,7 +45,8 @@ const Aside = () => {
               </a>
             </span>
           </div>
-        </div>
+        </div> */}
+        <SearchBar />
         <div className="divide-y dark:divide-gray-300">
           <ul className="pt-2 pb-4 space-y-1 text-sm">
             {/* NaveLink */}
@@ -156,6 +159,10 @@ const Aside = () => {
                     <span>Settings</span>
                   </a>
                 </li>
+                <li className="flex flex-row items-center md:gap-2 gap-2 md:-ml-2 lg:ml-1 -ml-2">
+                  <ThemeToggle />
+                  <>Dark Mode</>
+                </li>
                 <li>
                   <a
                     rel="noopener noreferrer"
@@ -173,8 +180,7 @@ const Aside = () => {
                     <span>Logout</span>
                   </a>
                 </li>
-                <div>
-                </div>
+                <div></div>
               </ul>
             </div>
           </ul>

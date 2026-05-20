@@ -14,7 +14,7 @@
     "id": 7,
     "title": "It Ends with Us",
     "summary": "A powerful story about love, heartbreak, and finding the strength to stand up for yourself.",
-    "image": "https://i.ibb.co/FKstNpz/it-ends-with-us.jpg",
+    "image": "https://tuniquebd.com/wp-content/uploads/2022/09/bookedwithemilee_299930791_168638659045147_5960168883073730946_n.jpg",
     "author": "Colleen Hoover",
     "genre": "Romance",
     "discountPrice": 8.99,
@@ -25,7 +25,7 @@
     "id": 10,
     "title": "The Notebook",
     "summary": "A timeless love story of passion and destiny that spans decades.",
-    "image": "https://i.ibb.co/2g8h0mJ/the-notebook.jpg",
+    "image": "https://bookowlsbd.com/cdn/shop/files/1701407067942.jpg?v=1704302481",
     "author": "Nicholas Sparks",
     "genre": "Romance",
     "discountPrice": 7.99,
@@ -36,55 +36,12 @@
     "id": 13,
     "title": "Dune",
     "summary": "A science fiction epic about politics, religion, and survival on a desert planet.",
-    "image": "https://i.ibb.co/MRsZL7B/dune.jpg",
+    "image": "https://141724060.cdn6.editmysite.com/uploads/1/4/1/7/141724060/NSVRQ3GD4AN4RC7EBBU6VHGX.jpeg?width=2400&optimize=medium",
     "author": "Frank Herbert",
     "genre": "Science Fiction",
     "discountPrice": 9.49,
     "officialPrice": 14.99,
     "rating": 4.9
-  },
-  {
-    "id": 16,
-    "title": "Project Hail Mary",
-    "summary": "A man wakes up alone in space with no memory — and the fate of humanity in his hands.",
-    "image": "https://i.ibb.co/S37g6Sh/project-hail-mary.jpg",
-    "author": "Andy Weir",
-    "genre": "Science Fiction",
-    "discountPrice": 11.49,
-    "officialPrice": 16.49,
-    "rating": 4.8
-  },
-  {
-    "id": 19,
-    "title": "Atomic Habits",
-    "summary": "An easy and proven way to build good habits and break bad ones.",
-    "image": "https://i.ibb.co/nfJDfw3/atomic-habits.jpg",
-    "author": "James Clear",
-    "genre": "Self-Help & Nonfiction",
-    "discountPrice": 9.49,
-    "officialPrice": 13.99,
-    "rating": 4.9
-  },
-  {
-    "id": 22,
-    "title": "The Girl on the Train",
-    "summary": "A psychological thriller that will forever change the way you look at other people’s lives.",
-    "image": "https://i.ibb.co/xDCsVGw/the-girl-on-the-train.jpg",
-    "author": "Paula Hawkins",
-    "genre": "Mystery & Thriller",
-    "discountPrice": 8.99,
-    "officialPrice": 13.99,
-    "rating": 4.6
-  },
-  {
-    "id": 24,
-    "title": "The Subtle Art of Not Giving a F*ck",
-    "summary": "A counterintuitive approach to living a good life by focusing on what truly matters.",
-    "image": "https://i.ibb.co/K0vH7sB/the-subtle-art.jpg",
-    "author": "Mark Manson",
-    "genre": "Self-Help & Nonfiction",
-    "discountPrice": 9.99,
-    "officialPrice": 14.99,
-    "rating": 4.7
   }
+  
 ]

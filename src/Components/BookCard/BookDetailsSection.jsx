@@ -3,6 +3,7 @@ import { useLoaderData, useParams } from "react-router";
 import BookDetailsCars from "./BookDetailsCars";
 import BookCard from "./BookCard";
 import Marquee from "react-fast-marquee";
+import Best from "./best";
 
 const BookDetailsSection = () => {
   const data = useLoaderData();
@@ -28,6 +29,7 @@ const BookDetailsSection = () => {
           <BookDetailsCars book={book} />
         ))}
       </div>
+      
     </div>
   );
 };

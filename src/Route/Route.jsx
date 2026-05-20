@@ -8,6 +8,9 @@ import BookDetailsSection from "../Components/BookCard/BookDetailsSection";
 import SearchResult from "../Components/SearchBar/Searchresult";
 import GenreBooks from "../Components/BookCard/GenreBooks";
 // import CategoryDetails from "../Components/BookCard/GenreBook";
+import { auth } from "./../Firebase/firebase.init";
+import Login from "../Page/Authentication/Login";
+import SignUp from "../Page/Authentication/SignUp";
 
 export const router = createBrowserRouter([
   {
@@ -41,7 +44,15 @@ export const router = createBrowserRouter([
       },
       {
         path: "/genre/:genreName",
-        Component: GenreBooks
+        Component: GenreBooks,
+      },
+      {
+        path: "/login",
+        Component: Login,
+      },
+      {
+        path: "/signUp",
+        Component: SignUp,
       },
     ],
   },

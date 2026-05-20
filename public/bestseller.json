@@ -1,0 +1,46 @@
+[
+  {
+    "id": 15,
+    "title": "Harry Potter and the Sorcerer’s Stone",
+    "summary": "A young boy discovers he’s a wizard and enters the magical world of Hogwarts.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NZgdlp0logL7bzULpRwBlQQfP7xP1wAhTQ&s",
+    "author": "J.K. Rowling",
+    "genre": "Science Fiction",
+    "discountPrice": 7.99,
+    "officialPrice": 12.99,
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "title": "Me Before You",
+    "summary": "A heartfelt story about two people whose lives change each other forever.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg",
+    "author": "Jojo Moyes",
+    "genre": "Romance",
+    "discountPrice": 9.99,
+    "officialPrice": 15.49,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "The Girl with the Dragon Tattoo",
+    "summary": "A dark and compelling mystery that delves into family secrets, corruption, and revenge.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_.jpg",
+    "author": "Stieg Larsson",
+    "genre": "Mystery & Thriller",
+    "discountPrice": 10.99,
+    "officialPrice": 16.99,
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "title": "Atomic Habits",
+    "summary": "An easy and proven way to build good habits and break bad ones.",
+    "image": "https://baatighar.com/web/image/product.product/24347/image_1024",
+    "author": "James Clear",
+    "genre": "Self-Help & Nonfiction",
+    "discountPrice": 9.49,
+    "officialPrice": 13.99,
+    "rating": 4.9
+  }
+]

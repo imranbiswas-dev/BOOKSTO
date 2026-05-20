@@ -7,6 +7,7 @@ import {
   FaPinterest,
 } from "react-icons/fa";
 import EbookPolicy from "../EbookPolicy";
+import Best from "./best";
 
 const BookDetailsCard = ({ book }) => {
   const {
@@ -42,7 +43,6 @@ const BookDetailsCard = ({ book }) => {
             <p className="line-through text-gray-400  text-lg">
               ${officialPrice}
             </p>
-            
           </div>
 
           <div className="flex items-center">
@@ -92,6 +92,9 @@ const BookDetailsCard = ({ book }) => {
         </div>
       </div>
 
+      <section>
+        <Best />
+      </section>
       {/* Policy */}
       <section>
         <EbookPolicy />

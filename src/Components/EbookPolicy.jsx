@@ -29,7 +29,7 @@ const EbookPolicy = () => {
   ];
 
   return (
-    <div className="mt-10 bg-base-300 p-6 rounded-2xl">
+    <div className="mt-10 bg-base-300 p-6 rounded-2xl shadow-md">
       <h3 className="text-xl font-bold text-center mb-6 text-accent">
         📘 Our E-Book Policies
       </h3>
@@ -41,8 +41,8 @@ const EbookPolicy = () => {
             className="card bg-base-100 shadow-md hover:shadow-lg transition p-5 text-center"
           >
             <div className="flex justify-center mb-3">{policy.icon}</div>
-            <h4 className="font-semibold text-lg mb-2">{policy.title}</h4>
-            <p className="text-gray-600 dark:text-gray-400 text-sm">{policy.desc}</p>
+            <h4 className="font-bold text-lg mb-2">{policy.title}</h4>
+            <p className="text-sm text-gray-400">{policy.desc}</p>
           </div>
         ))}
       </div>

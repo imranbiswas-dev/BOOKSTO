@@ -16,20 +16,20 @@ const TrendingCategory = () => {
   console.log(cards);
   return (
     <div className="lg:w-[80%] md:w-[91%] mx-auto md:-mt-8 lg:-mt-15">
-      <Marquee
+      <div
         gradient={false}
         pauseOnClick={true}
         powerOnHover={true}
         className="overflow-hidden"
       >
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 justify-self-center">
           {cards.map((card, index) => (
             <div key={index}>
               <CategoryCard card={card} />
             </div>
           ))}
         </div>
-      </Marquee>
+      </div>
     </div>
   );
 };

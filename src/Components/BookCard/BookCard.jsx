@@ -33,7 +33,7 @@ const BookCard = ({book}) => {
             <p className="md:text-2xl text-accent">${discountPrice}</p>
             <p className="text-gray-400 "><del>${officialPrice}</del></p>
           </div>
-        <p className="flex  items-center gap-1  mt-1 md:text-xl "> <FaStarHalfStroke className="text-orange-600" /> {rating}</p>
+        <p className="flex  items-center gap-1  mt-1 md:text-xl "> <FaStarHalfStroke className="text-orange-600" /> {rating} / 5</p>
        </div>
         </div>
       </div>

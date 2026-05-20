@@ -7,12 +7,8 @@ import Aside from "../Components/Aside/Aside";
 const Layout = () => {
   return (
     <div>
-      <section className="grid lg:grid-cols-12">
-        <aside className="col-span-2 hidden lg:inline-block">
-          <Aside />
-        </aside>
-
-        <main className="col-span-10">
+      <section className="">
+        <main className="">
           <Navbar />
           <div className="w-11/12 mx-auto">
             <Outlet />

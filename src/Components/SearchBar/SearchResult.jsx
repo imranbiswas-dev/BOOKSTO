@@ -14,7 +14,7 @@ const SearchResult = () => {
       .then((data) => {
         if (query) {
           const filtered = data.filter((item) =>
-            item.title.toLowerCase().includes(query.toLowerCase())
+            item.title.toLowerCase().includes(query.toLowerCase()) ||  item.genre.toLowerCase().includes(query.toLowerCase())
           );
           setBooks(filtered);
         } else {
@@ -33,8 +33,8 @@ const SearchResult = () => {
             <div className=" card-side shadow-md bg-base-300 rounded-2xl">
               <figure className="rounded-2xl ">
                 <img
-                  className=""
-                  src="https://caffeineberry.com/wp-content/uploads/2023/04/atomic-habits-edited-scaled.jpeg"
+                  className="h-[420px]"
+                  src={book.image}
                   alt="Movie"
                 />
 

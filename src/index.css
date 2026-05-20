@@ -4,3 +4,6 @@
 .active{
     @apply text-[#0DD6B8]
 }
+
+
+@tailwind utilities;

@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import BookCard from "./BookCard";
 
-const Trending = () => {
+const Best = () => {
   const [books, setBooks] = useState([]);
 
   useEffect(() => {
-    fetch("/trending.json")
+    fetch("/bestseller.json")
       .then((res) => res.json())
       .then((data) => {
         setBooks(data);
@@ -13,7 +13,7 @@ const Trending = () => {
   }, []);
   return (
     <div className="mt-10">
-      <h1 className="text-lg md:text-2xl lg:text-3xl text-center mb-3"><span className="text-[#0DD6B8] text-xl md:text-3xl lg:text-4xl font-semibold">Trending Now</span> <br /></h1>
+      <h1 className="text-lg md:text-2xl lg:text-3xl text-center mb-3"><span className="text-[#0DD6B8] text-xl md:text-3xl lg:text-4xl font-semibold">Best Seller</span> <br /></h1>
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 justify-self-center md:gap-11 lg:gap-20 gap-3">
         {books.map((book) => (
           <BookCard book={book} />
@@ -23,4 +23,4 @@ const Trending = () => {
   );
 };
 
-export default Trending;
+export default Best;
